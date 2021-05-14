@@ -10,7 +10,7 @@ defaultContentLanguageInSubdir= true
 
 [params]
   editURL = "https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/"
-  description = "Documentation for Hugo Learn Theme"
+  description = "Radiation Effects Made Simple"
   author = "Mathieu Cornic"
   showVisitedLinks = true
   disableBreadcrumb = false
@@ -38,10 +38,6 @@ identifier = "ds"
 url = "https://github.com/matcornic/hugo-theme-learn"
 weight = 10
 
-[[Languages.en.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-camera'></i> Showcases"
-url = "showcase"
-weight = 11
 
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-bookmark'></i> Hugo Documentation"
