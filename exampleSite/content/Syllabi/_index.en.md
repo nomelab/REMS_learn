@@ -1,8 +1,8 @@
 ---
 title: Syllabi
 weight: 5
-pre: "<b>1. </b>"
-chapter: true
+pre: "<b>a. </b>"
+chapter: false
 ---
 
 
