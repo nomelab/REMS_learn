@@ -8,7 +8,7 @@
   HUGO_VERSION = "0.72.0"
 
 [context.production.environment]
-  HUGO_BASEURL = "hugo -s exampleSite -b $DEPLOY_PRIME_URL"
+  HUGO_BASEURL = "https://objective-kalam-25ad89.netlify.app/"
 
 [context.deploy-preview]
   command = "hugo -s exampleSite -b $DEPLOY_PRIME_URL"
