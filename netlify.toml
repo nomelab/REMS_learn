@@ -1,6 +1,6 @@
 [build]
   publish = "exampleSite/public"
-  command = "hugo -s exampleSite"
+  command = "hugo -s REMS_learn"
 
 [build.environment]
   HUGO_THEME = "repo"
