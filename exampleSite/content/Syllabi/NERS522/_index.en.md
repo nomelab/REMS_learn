@@ -1,7 +1,7 @@
 ---
-title: Syllabi
-weight: 5
-pre: "<b>1. </b>"
+title: NERS522 Syllabus
+weight: 10
+pre: "<b>ii. </b>"
 chapter: true
 ---
 
