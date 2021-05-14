@@ -9,9 +9,9 @@ metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
 
 [params]
-  editURL = "https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/"
+  editURL = "https://github.com/nomelab/REMS_learn/tree/master/exampleSite/content"
   description = "Radiation Effects Made Simple"
-  author = "Mathieu Cornic"
+  author = "Kevin G. Field"
   showVisitedLinks = true
   disableBreadcrumb = false
   disableNextPrev = false
