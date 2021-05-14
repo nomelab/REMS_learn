@@ -9,4 +9,7 @@ This simple website is designed to provide basic learning and review materials f
 ## How to use this webpage
 
 * Menus are on the left and divided into content per course
-* Use can use the [Search]({{%relref "basics/configuration/_index.md#activate-search" %}}) function to find a specific topic, example question, or knowledge test
+* 
+
+{{% notice tip %}}Use can use the [Search]({{%relref "basics/configuration/_index.md#activate-search" %}}) function to find a specific topic, example question, or knowledge test 
+{{% /notice %}}
