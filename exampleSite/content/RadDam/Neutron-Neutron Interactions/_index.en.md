@@ -27,8 +27,6 @@ shuffle_answers: false
 
 What is the charge of a neutron?
 
-> Some hint
-
 - [ ] positive
 - [ ] negative
 - [x] neutral
