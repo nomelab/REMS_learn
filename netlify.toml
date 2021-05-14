@@ -1,17 +1,17 @@
 [build]
-  publish = "exampleSite/public"
-  command = "hugo -s exampleSite"
+  publish = "REMS/public"
+  command = "hugo -s REMS"
 
 [build.environment]
   HUGO_THEME = "repo"
-  HUGO_THEMESDIR = "/opt/build"
+  HUGO_THEMESDIR = "/themes"
   HUGO_VERSION = "0.72.0"
 
 [context.production.environment]
-  HUGO_BASEURL = "https://learn.netlify.app/"
+  HUGO_BASEURL = "hugo -s REMS -b $DEPLOY_PRIME_URL"
 
 [context.deploy-preview]
-  command = "hugo -s exampleSite -b $DEPLOY_PRIME_URL"
+  command = "hugo -s REMS -b $DEPLOY_PRIME_URL"
 
 [context.deploy-preview.environment]
   HUGO_ENABLEGITINFO = "true"
