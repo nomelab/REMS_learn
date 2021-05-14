@@ -39,48 +39,53 @@ chapter: true
 
 The course is divided into three main components based on the general events associated with a radiation effects. These are: (i) The radiation damage event, (ii) Point defect generation, recombination and mobility, and (III) the formation of extended defects. Each section schedule is provided below:
 
-####Part I: The radiation damage event
+#### Part I: The radiation damage event
 *Objective:* Develop a fundamental understanding of the physics of the radiation damage event
 
-|Day|Date|Topic|Instructor|Lecture slides|Other resources|
+|Day|Date|Topic|Lecture Slides|Assignments|Other resources|
 |---|---|---|---|---|---|
 |Monday|Aug. 30| Introduction |Field| | | |
-|Tuesday| |Basic particle interactions| Field | | | |
-|Monday<td colspan = "5"> No lecture </td>
-|Tuesday|| Complex particle interactions|Field| | | |
-|Monday| |Simple displacement theory| Field | | | |
-|Tuesday| |Displacement cross sections| Field | | | |
-|Monday| |Damage range|Field| | | |
-|Tuesday| |Damage cascades|Field| | | |
+|Tuesday|Sept. 1|Basic particle interactions| Field | | | |
+|Monday|Sept. 6|<span style="color:green">*No lecture - Labor Day<span>*|-|-|-|
+|Tuesday|Sept. 8| Complex particle interactions|Field| | | |
+|Monday|Sept. 13|Simple displacement theory| Field | | | |
+|Tuesday|Sept. 15|Displacement cross sections| Field | | | |
+|Monday|Sept. 20|Damage range|Field| | | |
+|Tuesday|Sept. 22|Damage cascades|Field| | | |
 
 
-####Part II: Point Defect Generation, Recombination, and Mobility
+#### Part II: Point Defect Generation, Recombination, and Mobility
 *Objective:* Apply knowledge from the radiation damage event to determine the point defect generation in material systems
 
-|Day|Date|Topic|Instructor|Lecture slides|Other resources|
-|---|---|---|---|---|---|
-|Monday| | | | | | |
-|Tuesday| | | | | | |
-|Monday| | | | | | |
-|Tuesday| | | | | | |
-|Monday| | | | | | |
-|Tuesday| | | | | | |
-|Monday| | | | | | |
-|Tuesday| | | | | | |
+|Day|Date|Topic|Lecture Slides|Assignments|Other resources|
+|---|---|---|---|---|---
+|Monday|Sept. 27|Point Defects| | | | |
+|Tuesday|Sept. 29|Defect Motion| | | | |
+|Monday|Oct. 4|Radiation Enhanced Diffusion| | | | |
+|Tuesday|Oct. 6|Kinetics| | | | |
+|Monday|Oct. 11|Defect Reactions I| | | | |
+|Tuesday|Oct. 13|Defect Reactions II| | | | |
+|Monday|Oct. 18|<span style="color:green">*No lecture - Fall Study Break*<span>|-|-|-|
+|Tuesday|Oct. 20|<span style="color:red">**Midterm Exam**<span>| | | |Study Guide|
 
-####Part III: Formation of extended defects
+#### Part III: Formation of extended defects
 *Objective:* Use the defect generation theory to explain the formation and mobility of 1D - 3D defects and chemical species
 
-|Day|Date|Topic|Instructor|Lecture slides|Other resources|
-|---|---|---|---|---|---|
-|Monday| | | | | | |
-|Tuesday| | | | | | |
-|Monday| | | | | | |
-|Tuesday| | | | | | |
-|Monday| | | | | | |
-|Tuesday| | | | | | |
-|Monday| | | | | | |
-|Tuesday| | | | | | |
-
-
+|Day|Date|Topic|Lecture Slides|Assignments|Other resources|
+|---|---|---|---|---|---
+|Monday|Oct. 25| | | | | |
+|Tuesday|Oct. 27| | | | | |
+|Monday|Nov. 1| | | | | |
+|Tuesday|Nov. 3 | | | | | |
+|Monday|Nov. 8 | | | | | |
+|Tuesday|Nov. 10| | | | | |
+|Monday|Nov. 15| | | | | |
+|Tuesday|Nov. 17| | | | | |
+|Monday|Nov. 22| | | | | |
+|Tuesday|Nov. 24|<span style="color:green">*No lecture - Thanksgiving Break*<span>|-|-|-|
+|Monday|Nov. 29| | | | | |
+|Tuesday|Dec. 2| | | | | |
+|Monday|Dec. 6| | | | | |
+|Tuesday|Dec. 8| | | | | |
+|TBD|TBD|<span style="color:red">**Final Exam**<span>|-|-|Study Guide|
 
