@@ -23,6 +23,9 @@ chapter: true
 |**Activities**|The majority of the class meetings will consist of lectures with homework assigned for out of classroom learning and development. Practice problems and study guides for each homework and exam are provided on the REMS website|
 |**Grading**|40% Homework <br />30% Midterm exam <br />30% Final exam|
 |**Letter Grade Assignment**|>95% A+, >90% A, >85% A-, >80% B+|
+|**Honor Code Statement**|It is expected all material and submitted assignments will be your own, original work. For the case of homework assignments, group study and discussion are acceptable and encouraged, but the submitted assignments must have been completed in full by yourself. Exams should be taken independently. At the time of the exam, the use of outside material will be discussed. Any evidence of non-original work or co-dependent exam completion will be considered a possible Honor Code violation and be reported to the Honor Council.|
+|**Students with Disabilities**|We are available to discuss appropriate academic accommodations that may be required for student with disabilities. Requests for academic accommodations are to be made during the first three weeks of the semester, except for unusual circumstances. Students are encouraged to register with Office of Students with Disabilities, G-664 Haven Hall, 763-3000, http://ssd.umich.edu/ to verify their eligibility for appropriate accommodations.|
+|**Diversity Statement**|All members of this class are expected to contribute to a respectful, welcoming and inclusive environment for every other member of the class. I consider this classroom to be a place where you will be treated with respect, and I welcome individuals of all ages, backgrounds, beliefs, ethnicities, genders, gender identities, gender expressions, national origins, religious affiliations, sexual orientations, ability –and other visible and nonvisible differences.|
 
  
 ### Schedule
