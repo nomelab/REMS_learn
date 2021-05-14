@@ -5,6 +5,35 @@ weight: 15
 
 The following steps are here to help you initialize your new website. If you don't know Hugo at all, we strongly suggest you learn more about it by following this [great documentation for beginners](https://gohugo.io/overview/quickstart/).
 
+
+##Test a quiz
+
+# Hugo Quiz
+
+{{< quizdown >}}
+
+---
+primary_color: orange
+secondary_color: lightgray
+text_color: black
+shuffle_questions: false
+---
+
+## The sound of dog
+
+---
+shuffle_answers: false
+---
+
+What do dogs sound like?
+
+> Some hint
+
+- [ ] yes
+- [ ] no
+- [ ] `self.sound = "meow"`
+- [x] wuff
+
 ## Create your project
 
 Hugo provides a `new` command to create a new website.
