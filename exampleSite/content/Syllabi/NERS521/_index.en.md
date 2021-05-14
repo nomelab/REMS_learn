@@ -11,6 +11,8 @@ chapter: true
 
 *Click [here](###Schedule) to jump to the course schedule*
 
+### General Details
+
 |Topic | Details |
 |---|---|
 | **Instructor** | Prof. Kevin G. Field <br> Associate Professor <br /> 3005 Michigan Memorial Pheonix Project (PML) <br /> kgfield@umich.edu |
@@ -27,7 +29,11 @@ chapter: true
 |**Students with Disabilities**|We are available to discuss appropriate academic accommodations that may be required for student with disabilities. Requests for academic accommodations are to be made during the first three weeks of the semester, except for unusual circumstances. Students are encouraged to register with Office of Students with Disabilities, G-664 Haven Hall, 763-3000, http://ssd.umich.edu/ to verify their eligibility for appropriate accommodations.|
 |**Diversity Statement**|All members of this class are expected to contribute to a respectful, welcoming and inclusive environment for every other member of the class. I consider this classroom to be a place where you will be treated with respect, and I welcome individuals of all ages, backgrounds, beliefs, ethnicities, genders, gender identities, gender expressions, national origins, religious affiliations, sexual orientations, ability –and other visible and nonvisible differences.|
 
- 
+### Where are the lectures?
+
+<iframe src="https://campusinfo.umich.edu/campusmap/142" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
 ### Schedule
 
 
