@@ -27,6 +27,8 @@ shuffle_answers: false
 
 What is the charge of a neutron?
 
+> The charge is based on the electrical properties of the neutron
+
 - [ ] positive
 - [ ] negative
 - [x] neutral
