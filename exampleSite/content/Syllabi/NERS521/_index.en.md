@@ -31,8 +31,7 @@ chapter: true
 
 ### Where are the lectures?
 
-<iframe src="https://campusinfo.umich.edu/campusmap/142" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
+<iframe width="100%" height="150" name="iframe" src="https://campusinfo.umich.edu/campusmap/142"></iframe>
 
 ### Schedule
 
