@@ -31,9 +31,11 @@ chapter: true
 
 ### Where are the lectures?
 
-<iframe width="100%" height="150" name="iframe" src="https://campusinfo.umich.edu/campusmap/142"></iframe>
+<iframe width="100%" height="150" name="iframe" src="https://campusinfo.umich.edu/building-search/building/142/climate-and-space-research-building-csrb"></iframe>
 
-### Schedule
+### Lecture Schedule
+
+*Please note this schedule is tentative*
 
 
 
