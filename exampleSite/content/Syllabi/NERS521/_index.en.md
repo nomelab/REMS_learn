@@ -21,8 +21,8 @@ chapter: true
 |**Outcomes**|- Provide an in-depth description and analysis of energetic particle interactions<br />- Calculate the damage imparted to a crystal from energetic particle bombardments<br />- Explain point-defect production and mobility as it relates to radiation damage<br />- Identify key radiation damage produced 1D, 2D and 3D microstructures and the associated mechanisms as a function of dose, dose rate, and temperature|
 |**Materials**|Course lecture notes are available on the REMS website|
 |**Activities**|The majority of the class meetings will consist of lectures with homework assigned for out of classroom learning and development. Practice problems and study guides for each homework and exam are provided on the REMS website|
-|**Grading**|40% Homework <br/> 30% Midterm exam <br/>30% Final exam|
-|**Letter Grade Assignment**|40% Homework <br/> 30% Midterm exam <br/>30% Final exam|
+|<td rowspan="3">**Grading**</td>|40% Homework |30% Midterm exam |30% Final exam|
+|**Letter Grade Assignment**|>95% A+, >90% A, >85% A-, >80% B+|
 
  
 ### Schedule
