@@ -9,7 +9,7 @@ chapter: true
 # NERS521 Radiation Materials Science: I
 ## Fall 2021
 
-Click [here](###Schedule) to run to the course schedule
+*Click [here](### Schedule) to jump to the course schedule*
 
 |Topic | Details |
 |---|---|
@@ -24,7 +24,7 @@ Click [here](###Schedule) to run to the course schedule
 |**Grading**|40% Homework <br/> 30% Midterm exam <br/>30% Final exam|
 
  
-###Schedule
+### Schedule
 
 
 
