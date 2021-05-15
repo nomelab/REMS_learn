@@ -8,10 +8,10 @@ weight: 15
 The Kinchin-Pease (K-P) model is a simplifed estimate of the number of displaced atoms ($N_d$) per PKA[^1] by means of the simple set of proposed relationships:
 
 $N_d = \begin{cases}
-  0 & \text{for }0< E<E_d\\    
-  1 & \text{for }E_d<E<2E_d\\
-  \frac{E} {2E_d} &   \text{for }2E_d<E<E_i\\
-  \frac{E_i} {2E_d} & \text{for }E_i<E\\ 
+  0 & \text{for }0< E<E_d\\\  
+  1 & \text{for }E_d<E<2E_d\\\
+  \frac{E} {2E_d} &   \text{for }2E_d<E<E_i\\\
+  \frac{E_i} {2E_d} & \text{for }E_i<E\\\
 \end{cases}$
 
 Where $E$ is the energy of the PKA and $E_d$ is the threshold energy. As energies above $E_i$, the recoils lose energy only by electron excitation, while below $E_i$ the energy transfer and loss is controlled by hardsphere elastic interactions (e.g. scattering). Note, the simplified model does not account for the effects due to the crystal lattice (e.g. crystal strucutre effects) for either single interactions or more complex damage cascades.
@@ -22,11 +22,7 @@ The K-P model is only valid assuming classical elastic collision of hard spheres
 
 
 
-<details>
-	<summary>Example Problem #1</summary>
-	
-	Test
-</details>
+{{%expand "Example Problem #1" %}Test.{{%/expand%}}
 
 <details>
 	<summary>Click to test your knowledge!</summary>
