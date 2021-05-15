@@ -5,7 +5,7 @@ weight: 15
 
 ## The Kinchin-Pease model for displacements
 
-The Kinchin-Pease (K-P) model[^1] is a simplifed estimate of the number of displaced atoms ($N_d$) per PKA[^2] by means of the simple set of proposed relationships:
+The Kinchin-Pease (K-P) model[^1] is a simplified estimate of the number of displaced atoms ($N_d$) per PKA[^2] by means of the simple set of proposed relationships:
 
 $N_d = \begin{cases}
   0 & \text{for }0< E<E_d\\\  
@@ -14,10 +14,10 @@ $N_d = \begin{cases}
   \frac{E_i} {2E_d} & \text{for }E_i<E\\\
 \end{cases}$
 
-Where $E$ is the energy of the PKA and $E_d$ is the threshold energy. As energies above $E_i$, the recoils lose energy only by electron excitation, while below $E_i$ the energy transfer and loss is controlled by hardsphere elastic interactions (e.g. scattering). Note, the simplified model does not account for the effects due to the crystal lattice (e.g. crystal strucutre effects) for either single interactions or more complex damage cascades.
+Where $E$ is the energy of the PKA and $E_d$ is the threshold energy. As energies above $E_i$, the recoils lose energy only by electron excitation, while below $E_i$ the energy transfer and loss is controlled by hardsphere elastic interactions (e.g. scattering). Note, the simplified model does not account for the effects due to the crystal lattice (e.g. crystal structure effects) for either single interactions or more complex damage cascades.
 
 {{% notice warning %}}
-The K-P model is only valid assuming classical elastic collision of hard spheres. The concept of recombindation is not considered in the model!
+The K-P model is only valid assuming classical elastic collision of hard spheres. The concept of recombination is not considered in the model!
 {{% /notice %}}
 
 
@@ -25,9 +25,7 @@ The K-P model is only valid assuming classical elastic collision of hard spheres
 <summary><font size="5"><i class="fas fa-chevron-right"></i> Example Problems</font></summary>
 To be Updated
 </details>
-
 <br />
-
 <details>
 <summary><font size="5"><i class="fas fa-chevron-right"></i> Test your knowledge</font></summary>
 
