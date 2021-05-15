@@ -6,18 +6,18 @@ weight: 15
 
 ## The Kinchin-Pease model
 
-The Kinchin-Pease (K-P) model is a simplifed estimate of the number of displaced atoms ('\N_d\') per PKA by means of the simple set of proposed relationships:
+The Kinchin-Pease (K-P) model is a simplifed estimate of the number of displaced atoms ('$N_d$') per PKA by means of the simple set of proposed relationships:
 
-
-\\begin{equation*}
+<div>$$
+\begin{equation*}
 N_d=
-\\begin{cases}
+\begin{cases}
   0\\      
   1\\
-  \\frac{E}{2 E_d}\\
-  \\frac{E_i}{2 E_d}\\
-\\end{cases}
-
+  \frac{E}{2 E_d}\\
+  \frac{E_i}{2 E_d}\\
+\end{cases}
+$$</div>
 
 Where $E$ is the energy of the PKA and $E_d$ is the threshold energy. As energies above $E_i$, the recoils lose energy only by electron excitation, while below $E_i$ the energy transfer and loss is controlled by hardsphere elastic interactions (e.g. scattering). Note, the simplified model does not account for the effects due to the crystal lattice (e.g. crystal strucutre effects) for either single interactions or more complex damage cascades.
 
