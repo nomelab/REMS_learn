@@ -10,7 +10,7 @@ The Kinchin-Pease (K-P) model is a simplifed estimate of the number of displaced
 
 
 
-  $$\frac{E}{2 E_d}\\$$
+$$r_{eq}^3=\frac{3}{4 \pi N_p}\left(\frac{x_s}{C_p}-\frac{k \mu}{4}(1-x_s)\frac{r_{eq}}{D_s}\right)$$<p>
 
 
 Where $E$ is the energy of the PKA and $E_d$ is the threshold energy. As energies above $E_i$, the recoils lose energy only by electron excitation, while below $E_i$ the energy transfer and loss is controlled by hardsphere elastic interactions (e.g. scattering). Note, the simplified model does not account for the effects due to the crystal lattice (e.g. crystal strucutre effects) for either single interactions or more complex damage cascades.
