@@ -30,6 +30,7 @@ text_color: black
 shuffle_questions: false
 ---
 
+## The charge of a neutron
 
 ---
 shuffle_answers: false
@@ -37,7 +38,7 @@ shuffle_answers: false
 
 Based on the K-P model, if an energetic particle has an energy less than $E_d$ then what happens to the struck atom?
 
-> Ed is the energy required to displace an atom
+> $E_d$ is the energy required to displace an atom
 
 - [ ] The struck atom is displaced from the lattice site and is presumed to come to rest at a location in the lattice different from it's previous position
 - [x] The struck atom is presumed to resume to it's lattice site after the interaction
