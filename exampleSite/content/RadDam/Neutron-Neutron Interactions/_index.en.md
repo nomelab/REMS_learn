@@ -26,6 +26,8 @@ The K-P model is only valid assuming classical elastic collision of hard spheres
 To be Updated
 </details>
 
+<br />
+
 <details>
 <summary><font size="5"><i class="fas fa-chevron-right"></i> Test your knowledge</font></summary>
 

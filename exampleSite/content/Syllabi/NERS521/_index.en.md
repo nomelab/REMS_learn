@@ -33,7 +33,7 @@ chapter: true
 |**Diversity Statement**|All members of this class are expected to contribute to a respectful, welcoming and inclusive environment for every other member of the class. I consider this classroom to be a place where you will be treated with respect, and I welcome individuals of all ages, backgrounds, beliefs, ethnicities, genders, gender identities, gender expressions, national origins, religious affiliations, sexual orientations, ability –and other visible and nonvisible differences.|
 |**Student Resources**|If you require additional resources please contact the Office of Student Support and Accountability, ossa.engin.umich.edu or engin-support@umich.edu. In addition, if you or someone you know is feeling overwhelmed, depressed, and/or in need of support, services are available. You can learn more about the broad range of confidential mental health services available on campus via caps.umich.edu/mitalk|
 
-### Lecture Schedule
+### Lecture Schedule <a id="Schedule"></a>
 
 *Please note this schedule is tentative*
 
