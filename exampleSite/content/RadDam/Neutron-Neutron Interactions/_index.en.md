@@ -10,7 +10,7 @@ The Kinchin-Pease (K-P) model is a simplifed estimate of the number of displaced
 
 
 
-$$ c\_0 = a\_0 + b\_0 $$
+$$ c_0 = b $$
 
 
 
