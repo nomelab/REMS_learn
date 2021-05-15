@@ -24,8 +24,7 @@ The K-P model is only valid assuming classical elastic collision of hard spheres
 
 {{%expand "Example Problems" %}}Test.{{% /expand%}}
 
-<details>
-	<summary>Click to test your knowledge!</summary>
+{{%expand "Click to test your knowledge!" %}}
 
 {{< quizdown >}}
 
@@ -51,7 +50,7 @@ Based on the K-P model, if an energetic particle has an energy less than $E_d$ t
 
 {{< /quizdown >}}
 
-</details>
+{{% /expand%}}
 
 
 [^1]: PKA: Primary knock-on atom
