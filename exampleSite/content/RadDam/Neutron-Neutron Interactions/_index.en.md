@@ -9,8 +9,8 @@ The Kinchin-Pease (K-P) model is a simplifed estimate of the number of displaced
 
 $N_d = \begin{cases}
   0 & \text{for }0< E<E_d\\\  
-  1 & \text{for }E_d<E<2E_d\\\
-  \frac{E} {2E_d} &   \text{for }2E_d<E<E_i\\\
+  1 & \text{for }E_d<E<2E_d\\\\
+  \frac{E} {2E_d} &   \text{for }2E_d<E<E_i\\\\
   \frac{E_i} {2E_d} & \text{for }E_i<E\\\
 \end{cases}$
 
@@ -48,7 +48,7 @@ Based on the K-P model, if an energetic particle has an energy less than $E_d$ t
 - [ ] The struck atom is displaced from the lattice site and is presumed to come to rest at a location in the lattice different from it's previous position
 - [x] The struck atom is presumed to resume to it's lattice site after the interaction
 
-{{< /quizdown >}}
+{{< /quizdown >}}.
 
 {{% /expand%}}
 
