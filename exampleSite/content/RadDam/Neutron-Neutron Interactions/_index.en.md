@@ -14,6 +14,8 @@ test this $\mathcal{N}(0,\,1)$ right now
 
 let's see if this works <tex>$N_d$<tex> for now
 
+$$N_d$$
+
 Where $E$ is the energy of the PKA and $E_d$ is the threshold energy. As energies above $E_i$, the recoils lose energy only by electron excitation, while below $E_i$ the energy transfer and loss is controlled by hardsphere elastic interactions (e.g. scattering). Note, the simplified model does not account for the effects due to the crystal lattice (e.g. crystal strucutre effects) for either single interactions or more complex damage cascades.
 
 
