@@ -3,23 +3,33 @@ title: Homework 1 Study Guide
 weight: 15
 ---
 
-
 ## The Kinchin-Pease model
 
-The Kinchin-Pease (K-P) model is a simplifed estimate of the number of displaced atoms ($Nd$) per PKA by means of the simple set of proposed relationships:
+The Kinchin-Pease (K-P) model is a simplifed estimate of the number of displaced atoms ($N_d$) per PKA[^1] by means of the simple set of proposed relationships:
 
-
-
-test this $\mathcal{N}(0,\,1)$ right now
-
-let's see if this works <tex>$N_d$<tex> for now
-
-$$N_d$$
+$N_d = \begin{cases}
+  0 & \text{for }0< E<E_d\\    
+  1 & \text{for }E_d<E<2E_d\\
+  \frac{E} {2E_d} &   \text{for }2E_d<E<E_i\\
+  \frac{E_i} {2E_d} & \text{for }E_i<E\\ 
+\end{cases}$
 
 Where $E$ is the energy of the PKA and $E_d$ is the threshold energy. As energies above $E_i$, the recoils lose energy only by electron excitation, while below $E_i$ the energy transfer and loss is controlled by hardsphere elastic interactions (e.g. scattering). Note, the simplified model does not account for the effects due to the crystal lattice (e.g. crystal strucutre effects) for either single interactions or more complex damage cascades.
 
+{{% notice warning %}}
+The K-P model is only valid assuming classical elastic collision of hard spheres. The concept of recombindation is not considered in the model!
+{{% /notice %}}
 
-## Test your knowlegde
+
+
+<details>
+	<summary>Example Problem #1</summary>
+	
+	Test
+</details>
+
+<details>
+	<summary>Click to test your knowledge!</summary>
 
 {{< quizdown >}}
 
@@ -45,6 +55,7 @@ Based on the K-P model, if an energetic particle has an energy less than $E_d$ t
 
 {{< /quizdown >}}
 
-{{% notice note %}}
-Understanding the charge of a neutron is critical to capturing the interaction physics between a neutron with a given motion (e.g. energy) and a neutron at rest (e.g. the core of atom in a lattice)
-{{% /notice %}}
+</details>
+
+
+[^1]: PKA: Primary knock-on atom
