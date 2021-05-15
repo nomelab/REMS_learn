@@ -2,20 +2,13 @@
 title: Homework 1 Study Guide
 weight: 15
 ---
-The equilibrium radius of a precipitate under irradiation was given in class as:
-$$r_{eq}^3=\frac{3}{4 \pi N_p}\left(\frac{x_s}{C_p}-\frac{k \mu}{4}(1-x_s)\frac{r_{eq}}{D_s}\right)$$<p>
-or as (note corrections from lecture slides), 
-$$r_{eq}=\frac{B}{3u}-u$$
-where
-$$u=\left(\frac{-C}{2}+\sqrt{\frac{C^2}{4}+\frac{B^3}{27}}\right)^{(1/3)}$$
-and
-$$B=\frac{3}{4\pi N_p}\frac{K_o \mu (1-x_s)}{4 D_S};~~~~~C=\frac{3}{4 \pi N_p}\frac{x_s}{C_p}$$<p>
-- Consider a Fe-5%Cr alloy with Cr-rich $\alpha'$ precipitates where $C_{\alpha'}=0.66Cr$. What happens to the solute if not in the presence of irradiation, $K_0=0$?
+
 
 ## The Kinchin-Pease model
 
 The Kinchin-Pease (K-P) model is a simplifed estimate of the number of displaced atoms ($N_d$) per PKA by means of the simple set of proposed relationships:
 
+$
 \begin{equation*}
 N_d=
 \begin{cases}
@@ -24,6 +17,7 @@ N_d=
   \frac{E}{2 E_d}\\
   \frac{E_i}{2 E_d}\\
 \end{cases}
+\$
 
 Where $E$ is the energy of the PKA and $E_d$ is the threshold energy. As energies above $E_i$, the recoils lose energy only by electron excitation, while below $E_i$ the energy transfer and loss is controlled by hardsphere elastic interactions (e.g. scattering). Note, the simplified model does not account for the effects due to the crystal lattice (e.g. crystal strucutre effects) for either single interactions or more complex damage cascades.
 
