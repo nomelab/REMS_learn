@@ -10,8 +10,7 @@ where
 $$u=\left(\frac{-C}{2}+\sqrt{\frac{C^2}{4}+\frac{B^3}{27}}\right)^{(1/3)}$$
 and
 $$B=\frac{3}{4\pi N_p}\frac{K_o \mu (1-x_s)}{4 D_S};~~~~~C=\frac{3}{4 \pi N_p}\frac{x_s}{C_p}$$<p>
-\vspace{1truemm}
-a. Consider a Fe-5%Cr alloy with Cr-rich $\alpha'$ precipitates where $C_{\alpha'}=0.66Cr$. What happens to the solute if not in the presence of irradiation, $K_0=0$?
+- Consider a Fe-5%Cr alloy with Cr-rich $\alpha'$ precipitates where $C_{\alpha'}=0.66Cr$. What happens to the solute if not in the presence of irradiation, $K_0=0$?
 
 
 
