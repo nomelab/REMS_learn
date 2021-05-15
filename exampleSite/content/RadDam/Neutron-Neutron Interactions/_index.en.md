@@ -6,7 +6,7 @@ weight: 15
 
 ## The Kinchin-Pease model
 
-The Kinchin-Pease (K-P) model is a simplifed estimate of the number of displaced atoms ($N\_d$) per PKA by means of the simple set of proposed relationships:
+The Kinchin-Pease (K-P) model is a simplifed estimate of the number of displaced atoms ($N\_d$) per PKA by means of the simple set of proposed relationships `$test^2$`:
 
 
 
