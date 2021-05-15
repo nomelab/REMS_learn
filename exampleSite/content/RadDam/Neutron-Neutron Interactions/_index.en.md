@@ -3,7 +3,7 @@ title: Homework 1 Study Guide
 weight: 15
 ---
 
-## The Kinchin-Pease model
+## The Kinchin-Pease model for displacements
 
 The Kinchin-Pease (K-P) model is a simplifed estimate of the number of displaced atoms ($N_d$) per PKA[^1] by means of the simple set of proposed relationships:
 
@@ -22,7 +22,7 @@ The K-P model is only valid assuming classical elastic collision of hard spheres
 
 
 
-{{%expand "Example Problems" %}}Test.{{% /expand%}}
+{{%expand "### Example Problems" %}}Test.{{% /expand%}}
 
 
 
