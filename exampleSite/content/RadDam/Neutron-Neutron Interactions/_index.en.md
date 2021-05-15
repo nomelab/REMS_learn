@@ -10,7 +10,7 @@ The Kinchin-Pease (K-P) model is a simplifed estimate of the number of displaced
 
 
 
-$$r_{eq}^3=\frac{3}{4 \pi N_p}\left(\frac{x_s}{C_p}-\frac{k \mu}{4}(1-x_s)\frac{r_{eq}}{D_s}\right)$$<p>
+$$ c_0 = b $$
 
 
 
