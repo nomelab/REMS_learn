@@ -1,5 +1,5 @@
 ---
-title: The Neutron-Neutron Interaction
+title: Homework 1 Study Guide
 weight: 15
 ---
 The equilibrium radius of a precipitate under irradiation was given in class as:
@@ -12,7 +12,20 @@ and
 $$B=\frac{3}{4\pi N_p}\frac{K_o \mu (1-x_s)}{4 D_S};~~~~~C=\frac{3}{4 \pi N_p}\frac{x_s}{C_p}$$<p>
 - Consider a Fe-5%Cr alloy with Cr-rich $\alpha'$ precipitates where $C_{\alpha'}=0.66Cr$. What happens to the solute if not in the presence of irradiation, $K_0=0$?
 
+## The Kinchin-Pease model
 
+The Kinchin-Pease (K-P) model is a simplifed estimate of the number of displaced atoms ($N_d$) per PKA by means of the simple set of proposed relationships:
+
+\begin{equation*}
+N_d=
+\begin{cases}
+  0\\      
+  1\\
+  \frac{E}{2 E_d}\\
+  \frac{E_i}{2 E_d}\\
+\end{cases}
+
+Where $E$ is the energy of the PKA and $E_d$ is the threshold energy. As energies above $E_i$, the recoils lose energy only by electron excitation, while below $E_i$ the energy transfer and loss is controlled by hardsphere elastic interactions (e.g. scattering). Note, the simplified model does not account for the effects due to the crystal lattice (e.g. crystal strucutre effects) for either single interactions or more complex damage cascades.
 
 
 ## Test your knowlegde
@@ -32,13 +45,12 @@ shuffle_questions: false
 shuffle_answers: false
 ---
 
-What is the charge of a neutron?
+Based on the K-P model, if an energetic particle has an energy less than $E_d$ then what happens to the struck atom?
 
-> The charge is based on the electrical properties of the neutron
+> $E_d$ is the energy required to displace an atom
 
-- [ ] positive
-- [ ] negative
-- [x] neutral
+- [ ] The struck atom is displaced from the lattice site and is presumed to come to rest at a location in the lattice different from it's previous position
+- [x] The struck atom is presumed to resume to it's lattice site after the interaction
 
 {{< /quizdown >}}
 
