@@ -60,7 +60,7 @@ $$T=\frac{4M_1M_2}{( M_1+M_2 )^2}Esin^2 \theta/2$$
 
 thus we can use:
 
-$$T_m=\frac{4M_1M_2}{( M_1+M_2 )^2}E \ .$$
+$$T_m=\frac{4M_1M_2}{( M_1+M_2 )^2}E.$$
 
 Plugging the values in the equation, we can find $T$ which in this case will also be the maximum energy transferred:
 
@@ -84,7 +84,7 @@ where,
 
 $$v_{Fe}=\sqrt{\frac{2\times 0.07 MeV}{55.845 \times \frac{931.5}{(3\times 10^8)^2}}}=4.9\times10^5 \ m/s$$
 
-Note, for mass given in Da we converted the mass to MeV using the expressions given in the above table.The velocity of the proton after collision is given by,
+Note, for mass given in Da we converted the mass to MeV using the expressions given in the above table. The velocity of the proton after collision is given by,
 
 $$v_{proton}=\sqrt{\frac{2 (E_1-T_2)}{M_2}}$$
 
