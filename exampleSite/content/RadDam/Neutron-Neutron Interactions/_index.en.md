@@ -49,6 +49,8 @@ Calculate the velocity and energy for an Fe atom and a proton for an elastic hea
 | 1 $Da$ | $\frac{931.5 \, MeV}{c^2}$ |
 | $c^2$ | $3\times10^8 \, m/s$ |
 
+{{% /notice %}}
+
 <span style="color:blue">*Solution*</span>
 
 For a head-on collision, $\theta=\pi$ resulting in $sin^2 \theta/2 \rightarrow 1$ in, 
@@ -87,7 +89,7 @@ $$v_{proton}=\sqrt{\frac{2 (E_1-T_2)}{M_2}}$$
 
 $$v_{proton}=\sqrt{\frac{2\times (1-0.07) MeV}{1 \times \frac{931.5}{(3\times 10^8)^2}}}=1.3\times10^7 m/s$$
 
-{{% /notice %}}
+
 
 </details>
 
