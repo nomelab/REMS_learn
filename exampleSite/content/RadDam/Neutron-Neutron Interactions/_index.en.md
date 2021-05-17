@@ -34,9 +34,7 @@ The given equations for $T$ and $T_m$ are only valid for elastic hard-sphere col
 {{% /notice %}}
 
 <details>
-<summary>
-<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Click for example problems</a>    
-</summary>
+<summary><font size="5"><i class="fas fa-chevron-right"></i> Click for Example Problems</font></summary>
 
 {{% notice tip %}}
 ### Example Problem #1
@@ -92,8 +90,6 @@ Note, for mass given in Da we converted the mass to MeV using the expressions gi
 $$v_{proton}=\sqrt{\frac{2 (E_1-T_2)}{M_2}}$$
 
 $$v_{proton}=\sqrt{\frac{2\times (1-0.07) MeV}{1 \times \frac{931.5}{(3\times 10^8)^2}}}=1.3\times10^7 \ m/s$$
-
-
 
 </details>
 
