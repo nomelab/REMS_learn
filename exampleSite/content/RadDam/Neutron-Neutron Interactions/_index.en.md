@@ -21,11 +21,11 @@ where $E_1$ is the initial kinetic energy of the particle prior to the collision
 
 In the simplest form, we assume a hard sphere (e.g. elastic) collision between the incident particle. A simple expression can be derived accounting for conservation of mass and energy. The expression in the center-of-mass coordinate system is then,
 
-$$T=\frac{4M_1M_2}{( M_1+M_2 )^2}E \, sin^2 \theta/2$$
+$$T=\frac{4M_1M_2}{( M_1+M_2 )^2}E \ sin^2 \theta/2$$
 
 where $M_1$ and $M_2$ are the masses of the incident particle and the lattice atom at rest, respectively, E is the energy (typically given in eV) of the incident particle, and $\theta$ is the scattering angle. The maximum energy transfer, $T_m$, will occur during a head-on collision $(\theta = 180 ^{\circ})$ is,
 
-$$T_m=\frac{4M_1M_2}{( M_1+M_2 )^2}E \,.$$
+$$T_m=\frac{4M_1M_2}{( M_1+M_2 )^2}E \ .$$
 
 Thus, an elastic hard-sphere collision can have an energy transfer from 0 to $T_m$ where the energy spectrum depends on the type (mass, charge) and energy of the incident particles. The difference in this energy spectrum, as will be discussed in detail in later sections, leads to different damage development.
 
