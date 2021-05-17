@@ -39,7 +39,7 @@ The given equations for $T$ and $T_m$ are only valid for elastic hard-sphere col
 ___
 
 {{% notice tip %}}
-### Example Problem #1
+#### Example Problem #1
 
 Calculate the velocity and energy for an Fe atom and a proton for an elastic head-on collision. The proton is accelerated to an initial energy of 1 MeV.
 {{% /notice %}}
