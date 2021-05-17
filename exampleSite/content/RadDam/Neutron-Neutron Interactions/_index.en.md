@@ -15,7 +15,7 @@ In order to understand radiation effects, we first need to evaluate the interact
 
 We will spend the majority of the time discussing the first - displacement damage. In this process we are first interested in the energy transferred from the incident particle to lattice atom in the two-body collision. The energy of the process can be simply described by,
 
-$$E_1=T_1+T_2+Q \label{1}$$
+$$E_1=T_1+T_2+Q \label{eq:1}$$
 
 where $E_1$ is the initial kinetic energy of the particle prior to the collision, $T_1$ and $T_2$ are the kinetic energies of the two particles and $Q$ is the inelastic energy loss. If we consider an elastic collision, where the internal state of the two particles remains unchanged or the total sum of kinetic energy remains constant, then the $Q$ term is dropped from the equation. 
 
@@ -45,11 +45,11 @@ Calculate the velocity and energy for an Fe atom and a proton for an elastic hea
 
 |Constant|Value|
 |--------|-----|
-|$M_{proton}$| $1.675\times10^{-27} kg$ -or- $1 \ Da$ |
-|$E_{proton}$| 1 MeV |
-|$M_{Fe}$| $55.845 \, Da$ |
-| 1 $Da$ | $\frac{931.5 \, MeV}{c^2}$ |
-| $c^2$ | $3\times10^8 \, m/s$ |
+|$M_{proton}$| $1.675\times10^{-27} \ kg$ -or- $1 \ Da$ |
+|$E_{proton}$| 1 \ MeV |
+|$M_{Fe}$| $55.845 \ Da$ |
+| 1 $Da$ | $\frac{931.5 \ MeV}{c^2}$ |
+| $c^2$ | $3\times10^8 \ m/s$ |
 
 {{% /notice %}}
 
@@ -61,11 +61,11 @@ $$T=\frac{4M_1M_2}{( M_1+M_2 )^2}Esin^2 \theta/2$$
 
 thus we can use:
 
-$$T_m=\frac{4M_1M_2}{( M_1+M_2 )^2}E \,.$$
+$$T_m=\frac{4M_1M_2}{( M_1+M_2 )^2}E \ .$$
 
 Plugging the values in the equation, we can find $T$ which in this case will also be the maximum energy transferred:
 
-$$T_m=\frac{4\times1\times55.845}{( 1+55.845 )^2} 1 MeV =0.07 \, MeV\,.$$
+$$T_m=\frac{4\times1\times55.845}{( 1+55.845 )^2} 1 MeV =0.07 \ MeV\ .$$
 
 Note, as long as we keep the mass units constant between the two particles (e.g. $Da$) we can input any unit into the calculation. 
 
@@ -83,13 +83,13 @@ $$v_{Fe}=\sqrt{\frac{2 T_2}{M_2}}$$
 
 where,
 
-$$v_{Fe}=\sqrt{\frac{2\times 0.07 MeV}{55.845 \times \frac{931.5}{(3\times 10^8)^2}}}=4.9\times10^5 m/s$$
+$$v_{Fe}=\sqrt{\frac{2\times 0.07 MeV}{55.845 \times \frac{931.5}{(3\times 10^8)^2}}}=4.9\times10^5 \ m/s$$
 
 Note, for mass given in Da we converted the mass to MeV using the expressions given in the above table.The velocity of the proton after collision is given by,
 
 $$v_{proton}=\sqrt{\frac{2 (E_1-T_2)}{M_2}}$$
 
-$$v_{proton}=\sqrt{\frac{2\times (1-0.07) MeV}{1 \times \frac{931.5}{(3\times 10^8)^2}}}=1.3\times10^7 m/s$$
+$$v_{proton}=\sqrt{\frac{2\times (1-0.07) MeV}{1 \times \frac{931.5}{(3\times 10^8)^2}}}=1.3\times10^7 \ m/s$$
 
 
 
