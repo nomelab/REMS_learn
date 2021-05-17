@@ -34,7 +34,7 @@ The given equations for $T$ and $T_m$ are only valid for elastic hard-sphere col
 {{% /notice %}}
 
 <details>
-<summary><font size="5"><i class="fas fa-chevron-right"></i> Example Problems</font></summary>
+<summary><font size="5"><i class="fas fa-chevron-right"></i> Click for Example Problems</font></summary>
 
 {{% notice tip %}}
 ### Example Problem #1
@@ -45,7 +45,7 @@ Calculate the velocity and energy for an Fe atom and a proton for an elastic hea
 
 |Constant|Value|
 |--------|-----|
-|$M_{proton}$| $1.675\times10^{-27} kg$ -or- $1 Da$ |
+|$M_{proton}$| $1.675\times10^{-27} kg$ -or- $1 \: Da$ |
 |$E_{proton}$| 1 MeV |
 |$M_{Fe}$| $55.845 \, Da$ |
 | 1 $Da$ | $\frac{931.5 \, MeV}{c^2}$ |
