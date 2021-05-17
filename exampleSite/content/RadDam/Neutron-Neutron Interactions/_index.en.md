@@ -15,17 +15,17 @@ In order to understand radiation effects, we first need to evaluate the interact
 
 We will spend the majority of the time discussing the first - displacement damage. In this process we are first interested in the energy transferred from the incident particle to lattice atom in the two-body collision. The energy of the process can be simply described by,
 
-$$E_1=T_1+T_2+Q \label{eq:1}$$
+$$E_1=T_1+T_2+Q \label{1}$$
 
-where $E_1$ is the initial kinetic energy of the particle prior to the collision, $T_1$ and $T_2$ are the kinetic energies of the two particles and $Q$ is the inelastic energy loss. If we consider an elastic collision, where the internal state of the two particles remains unchanged or the total sum of kinetic energy remains constant, then the $Q$ term is dropped from the equation. 
+where $E_1$ is the initial kinetic energy of the particle prior to the collision, $T_1$ and $T_2$ are the kinetic energies of the two particles and $Q$ is the inelastic energy loss. If we consider an elastic collision, where the internal state of the two particles remains unchanged or the total sum of kinetic energy remains constant, then the $Q$ term is dropped from Equation \ref{1}. 
 
 In the simplest form, we assume a hard sphere (e.g. elastic) collision between the incident particle. A simple expression can be derived accounting for conservation of mass and energy. The expression in the center-of-mass coordinate system is then,
 
-$$T=\frac{4M_1M_2}{( M_1+M_2 )^2}E \ sin^2 \theta/2$$
+$$T=\frac{4M_1M_2}{( M_1+M_2 )^2}E \ sin^2 \theta/2 \label{2}$$
 
 where $M_1$ and $M_2$ are the masses of the incident particle and the lattice atom at rest, respectively, E is the energy (typically given in eV) of the incident particle, and $\theta$ is the scattering angle. The maximum energy transfer, $T_m$, will occur during a head-on collision $(\theta = 180 ^{\circ})$ is,
 
-$$T_m=\frac{4M_1M_2}{( M_1+M_2 )^2}E \ .$$
+$$T_m=\frac{4M_1M_2}{( M_1+M_2 )^2}E \ . \label{3}$$
 
 Thus, an elastic hard-sphere collision can have an energy transfer from 0 to $T_m$ where the energy spectrum depends on the type (mass, charge) and energy of the incident particles. The difference in this energy spectrum, as will be discussed in detail in later sections, leads to different damage development.
 
