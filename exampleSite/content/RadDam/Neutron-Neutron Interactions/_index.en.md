@@ -36,12 +36,13 @@ The given equations for $T$ and $T_m$ are only valid for elastic hard-sphere col
 <details>
 <summary><font size="5"><i class="fas fa-chevron-right"></i> Click for Example Problems</font></summary>
 
+___
+
 {{% notice tip %}}
 ### Example Problem #1
 
 Calculate the velocity and energy for an Fe atom and a proton for an elastic head-on collision. The proton is accelerated to an initial energy of 1 MeV.
 {{% /notice %}}
-<br />
 
 |Constant|Value|
 |--------|-----|
@@ -50,8 +51,6 @@ Calculate the velocity and energy for an Fe atom and a proton for an elastic hea
 |$M_{Fe}$| $55.845 \ Da$ |
 | 1 $Da$ | $\frac{931.5 \ MeV}{c^2}$ |
 | $c^2$ | $3\times10^8 \ m/s$ |
-
-
 
 <span style="color:blue">*Solution*</span>
 
@@ -91,6 +90,8 @@ $$v_{proton}=\sqrt{\frac{2 (E_1-T_2)}{M_2}}$$
 
 $$v_{proton}=\sqrt{\frac{2\times (1-0.07) MeV}{1 \times \frac{931.5}{(3\times 10^8)^2}}}=1.3\times10^7 \ m/s$$
 
+____
+
 </details>
 
 
@@ -119,7 +120,7 @@ The K-P model is only valid assuming classical elastic collision of hard spheres
 
 
 <details>
-<summary><font size="5"><i class="fas fa-chevron-right"></i> Example Problems</font></summary>
+<summary><font size="5"><i class="fas fa-chevron-right"></i> Click for Example Problems</font></summary>
 To be Updated
 </details>
 <br />
