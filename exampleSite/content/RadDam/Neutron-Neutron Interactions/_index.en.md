@@ -41,9 +41,11 @@ The given equations for $T$ and $T_m$ are only valid for elastic hard-sphere col
 
 Calculate the velocity and energy for an Fe atom and a proton for an elastic head-on collision. The proton is accelerated to an initial energy of 1 MeV.
 
+<br />
+
 |Constant|Value|
 |--------|-----|
-|$M_{proton}$| $1.675\times10^{-27} \, kg$ -or- $1 \, Da$ |
+|$M_{proton}$| $1.675\times10^{-27} kg$ -or- $1 Da$ |
 |$E_{proton}$| 1 MeV |
 |$M_{Fe}$| $55.845 \, Da$ |
 | 1 $Da$ | $\frac{931.5 \, MeV}{c^2}$ |
@@ -55,7 +57,7 @@ Calculate the velocity and energy for an Fe atom and a proton for an elastic hea
 
 For a head-on collision, $\theta=\pi$ resulting in $sin^2 \theta/2 \rightarrow 1$ in, 
 
-$$T=\frac{4M_1M_2}{( M_1+M_2 )^2}E \, sin^2 \theta/2$$
+$$T=\frac{4M_1M_2}{( M_1+M_2 )^2}Esin^2 \theta/2$$
 
 thus we can use:
 
@@ -63,7 +65,7 @@ $$T_m=\frac{4M_1M_2}{( M_1+M_2 )^2}E \,.$$
 
 Plugging the values in the equation, we can find $T$ which in this case will also be the maximum energy transferred:
 
-$$T_m=\frac{4\times1\times55.845}{( 1+55.845 )^2} \, 1 \, MeV =0.07 \, MeV\,.$$
+$$T_m=\frac{4\times1\times55.845}{( 1+55.845 )^2} 1 MeV =0.07 \, MeV\,.$$
 
 Note, as long as we keep the mass units constant between the two particles (e.g. $Da$) we can input any unit into the calculation. 
 
@@ -83,7 +85,7 @@ where,
 
 $$v_{Fe}=\sqrt{\frac{2\times 0.07 MeV}{55.845 \times \frac{931.5}{(3\times 10^8)^2}}}=4.9\times10^5 m/s$$
 
-Note, Da we converted the mass in Da to MeV using the expressions given in the above table.The velocity of the proton after collision is given by,
+Note, for mass given in Da we converted the mass to MeV using the expressions given in the above table.The velocity of the proton after collision is given by,
 
 $$v_{proton}=\sqrt{\frac{2 (E_1-T_2)}{M_2}}$$
 
